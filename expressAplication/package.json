@@ -1,0 +1,14 @@
+{
+  "name": "expressaplication",
+  "version": "1.0.0",
+  "description": "first express application",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "alen bicanic",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
