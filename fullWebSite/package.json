@@ -1,0 +1,14 @@
+{
+  "name": "fullwebsite",
+  "version": "1.0.0",
+  "description": "full web page",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Alen Bicanic",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
